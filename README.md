@@ -1,4 +1,4 @@
-teste
+My name is Lucas, I am 17 years old. I completed my technical high school education in technology at Fiap School. Currently, I am studying software engineering at Fiap University.
 
 <!--
 **kobaxzs/kobaxzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
