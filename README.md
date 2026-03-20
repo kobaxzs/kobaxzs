@@ -1,10 +1,1 @@
-👋 Hi!
-I’m Lucas, 17, studying Software Engineering at Fiap.
-
-💻 Passionate about web development and emerging technologies
-
-🌱 Always learning and building practical projects
-
-🛠️ Skills: HTML, CSS, JavaScript, Python
-
-🚀 Looking for challenges to grow and contribute to cool projects!
+👋 Hi! I’m Lucas, 17, studying Software Engineering at Fiap. I have basic knowledge of HTML, CSS, JavaScript, and SQL, and I’m interested in web development and emerging technologies. I’m always learning and looking for opportunities to build practical projects and grow in the tech field.
