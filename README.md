@@ -1,1 +1,7 @@
-My name is Lucas, I am 17 years old. I completed my technical high school education in technology at Fiap School and I am currently studying Software Engineering at Fiap University. I am interested in software development, programming, and emerging technologies, with a focus on creating practical and innovative solutions. I have basic knowledge of HTML, CSS, and JavaScript, and I have participated in academic and personal projects that helped me apply these skills. I am looking for opportunities to learn, grow, and contribute to technology projects that have a positive impact.
+👋 Hi!
+I’m Lucas, 17, studying Software Engineering at Fiap.
+
+💻 Passionate about web development and emerging technologies
+🌱 Always learning and building practical projects
+🛠️ Skills: HTML, CSS, JavaScript, Python
+🚀 Looking for challenges to grow and contribute to cool projects!
